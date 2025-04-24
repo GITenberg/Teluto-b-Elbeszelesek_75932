@@ -1,0 +1,26 @@
+_repo: Teluto-b-Elbeszelesek_75932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Berde, Mária
+    gutenberg_agent_id: '58224'
+    url: http://www.gutenberg.org/2009/agents/58224
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75932'
+language: hu
+pgterms:marc905: 20250420025803berde
+pgterms:marc906: '1928'
+pgterms:marc907: ro
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aKolozsvár :$bMinerva, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Télutó : $b Elbeszélések'
+url: http://www.gutenberg.org/ebooks/75932
