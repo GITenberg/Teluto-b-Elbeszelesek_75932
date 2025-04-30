@@ -1,11 +1,16 @@
 _repo: Teluto-b-Elbeszelesek_75932
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Berde, Mária
     gutenberg_agent_id: '58224'
     url: http://www.gutenberg.org/2009/agents/58224
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75932#Teluto-b-Elbeszelesek
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
